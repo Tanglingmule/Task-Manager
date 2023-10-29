@@ -1,0 +1,7 @@
+Any text in terminal is purely for debugging
+all data is stored in database.txt 
+windows are fixed and sizes cannot be changed apart from in the code
+doesnt work if two tasks share a title, description or date
+tasks are only deletable by title, this has been done by request
+Pillow must be installed/ pip install Pillow
+known issues:
